@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Zdravo, Gregor Znidarsic!
 Zdravo i tebi!
+=======
+Zdravo, Gregor!
+
+>>>>>>> gregorznidarsic-test-grana
